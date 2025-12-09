@@ -1,6 +1,17 @@
+<div align="center">
+
 # UPCHAAR
 
-![UPCHAAR Logo](./logo-png.png)
+<img src="./logo-png.png" alt="UPCHAAR Logo" width="300" height="auto" />
 
-A healthcare platform dedicated to provide better medical services by reducing the communication gap between users, hospitals and doctors and providing better prescriptions by reducing interactions.
+</div>
 
+---
+
+<div align="center">
+
+**A healthcare platform dedicated to provide better medical services by reducing the communication gap between users, hospitals and doctors and providing better prescriptions by reducing interactions.**
+
+</div>
+
+---
