@@ -1,6 +1,6 @@
 # UPCHAAR
 
-![UPCHAAR Logo](./logo.png)
+![UPCHAAR Logo](./logo-png.png)
 
 A healthcare platform dedicated to provide better medical services by reducing the communication gap between users, hospitals and doctors and providing better prescriptions by reducing interactions.
 
